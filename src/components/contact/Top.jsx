@@ -10,10 +10,12 @@ function Top() {
     <p className="mb-5 text-base  text-center text-gray sm:text-lg dark:text-gray-400 w-1/2 mx-auto">Receive daily tips on self-defense techniques, mental wellness strategies, and important safety advice. Empower yourself with small steps every day!</p>
     <div className="md:flex  justify-center space-y-4 sm:flex sm:space-y-0 sm:space-x-4 rtl:space-x-reverse">
 
-    <Form/>
-
+    
     </div>
 </section>
+
+<Form/>
+
 
     </div>
   )
