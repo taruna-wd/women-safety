@@ -119,7 +119,7 @@ function Form() {
           >
             <div className="mb-3">
               <label
-                for="fullName"
+                htmlFor="fullName"
                 className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
               >
                 full Name{" "}
@@ -138,7 +138,7 @@ function Form() {
             </div>
             <div className="mb-3">
               <label
-                for="email"
+                htmlFor="email"
                 className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
               >
                 {" "}
@@ -159,7 +159,7 @@ function Form() {
 
             <div className="mb-3">
               <label
-                for="phone"
+                htmlFor="phone"
                 className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
               >
                 {" "}
@@ -180,7 +180,7 @@ function Form() {
 
             <div className="mb-3">
               <label
-                for="location"
+                htmlFor="location"
                 className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
               >
                 {" "}
@@ -201,7 +201,7 @@ function Form() {
 
             <div className="mb-3">
               <label
-                for="incidentType"
+                htmlFor="incidentType"
                 className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
               >
                 {" "}
@@ -229,7 +229,7 @@ function Form() {
 
             <div className="mb-3">
               <label
-                for="way"
+                htmlFor="way"
                 className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
               >
                 Preferred Way to Reach You{" "}
@@ -254,7 +254,7 @@ function Form() {
             {/* garbhard */}
             <div className="mb-3">
               <label
-                for="Urgent"
+                htmlFor="Urgent"
                 className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
               >
                 How Urgent is Your Concern?
@@ -278,7 +278,7 @@ function Form() {
 
             <div className="mb-4">
               <label
-                for="help"
+                htmlFor="help"
                 className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
               >
                 What Kind of Support Do You Need ?{" "}
@@ -312,7 +312,7 @@ function Form() {
                 />
               </div>
               <label
-                for="agree"
+                htmlFor="agree"
                 className="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300"
               >
                 I agree with the{" "}
